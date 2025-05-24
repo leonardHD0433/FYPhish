@@ -1,3 +1,13 @@
+# FYPhish
+This project is a fork of [Gophish](https://github.com/gophish/gophish), an open-source phishing toolkit, developed by Jordan Wright. The original project is licensed under the MIT License.
+
+## Modifications
+- [List the major modifications you've made for your FYP]
+- [Add other significant changes]
+
+## Original Project
+Visit the original Gophish project at: https://github.com/gophish/gophish
+
 ![gophish logo](https://raw.github.com/gophish/gophish/master/static/images/gophish_purple.png)
 
 Gophish
